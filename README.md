@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Github URL: [Github Repo]()
-- Live Site URL: [Project Link]()
+- Github URL: [Github Repo](https://github.com/Nitesh-bit/Travel-list-app)
+- Live Site URL: [Project Link](https://travel-list-1210.netlify.app/)
 
 ## My process
 
